@@ -16,12 +16,16 @@ export const SITE = {
 export const ME = {
     name: "Nancy Isabella Sanchez Rodriguez",
     profileImage: "pp2.png",
+    profession: "Estudiante",
     profileFacts: [
-       
+        {value: "", description: ""}
     ],
     contactInfo: {
+        linkedin: "https://www.linkedin.com/",
+        email: "",
+        resumeDoc: ""
     },
-    aboutMe: "Hola me llamo Nancy y soy estudiante de la universidad politecnica de QuintanaRoo yMe apasiona el aprendizaje y siempre busco adquirir nuevos conocimientos en diferentes áreas",
+    aboutMe: "Hola me llamo Nancy y soy estudiante de la universidad politecnica de QuintanaRoo y Me apasiona el aprendizaje y siempre busco adquirir nuevos conocimientos en diferentes áreas",
 }
 
 export const SOCIALS = [
